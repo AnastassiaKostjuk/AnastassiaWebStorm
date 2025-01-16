@@ -1,8 +1,12 @@
+div{
+    text-align: center;
+}
 img{
     border: 2px solid grey;
     border-radius: 160px;
     width: 20%;
     padding: 2%;
+    text-align: center;
 }
 h1{
     font-family: Georgia, Times, serif;
