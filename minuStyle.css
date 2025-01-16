@@ -4,6 +4,7 @@ div{
 #pilt1{
     border: 2px solid grey;
     border-radius: 160px;
+    border-color: white;
     width: 20%;
 }
 #pilt2{
