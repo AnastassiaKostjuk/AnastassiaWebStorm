@@ -1,12 +1,16 @@
 div{
     text-align: center;
 }
-img{
-    border: 2px solid grey;
-    border-radius: 160px;
+#pilt1{
+    border: 2px solid;
+    border-radius: 100px;
+    border-color: white;
     width: 20%;
-    padding: 2%;
-    text-align: center;
+}
+#pilt2{
+    width: 80%;
+    margin-left: 3%;
+    border-radius: 160px;
 }
 h1{
     font-family: Georgia, Times, serif;
@@ -17,11 +21,16 @@ h1{
 }
 body{
     font-family: Georgia, Times, serif;
-    background-color: powderblue;
+    background-color: mistyrose;
 }
 ul{
     list-style-type: square;
     margin-left: 5%;
     border: 3pt dotted white;
     width: 20%;
+}
+#issue1{
+    font-family: Georgia, Times, serif;
+    letter-spacing: 2px;
+    text-align: center;
 }
